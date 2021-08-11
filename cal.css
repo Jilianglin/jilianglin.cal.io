@@ -1,0 +1,15 @@
+*{
+    box-sizing:border-box;
+}
+section{
+    display: block;
+    margin: 5px;
+}
+input{
+    padding: 20px;
+    font-size: x-large;
+}
+h1 input{
+    border: 1px black solid;
+    text-align: right;
+}
